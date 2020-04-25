@@ -2,7 +2,7 @@
 
 # Importing Packages
 import sys, logging
-from apscheduler.scheduler import Scheduler
+from apscheduler.scheduler import Schedulera
 sys.path.append("\\Users\\Steve Martin\\Documents\\Personal\\Python Scripts\\Crawler\\")
 import spider_library as sl
 
